@@ -1,9 +1,9 @@
 ```md
 # 🌿 Plant Doctor
 
-![Plant Doctor Website](./images/readme-img/home-page.png)
+![Plant Doctor Website](./home-page.png)
 
-![Plant Doctor Website](./images/readme-img/plant-page.png)
+![Plant Doctor Website](./plant-page.png)
 
 
 Plant Doctor is a simple and user-friendly website that helps users learn about indoor plants and how to take care of them. 🪴
